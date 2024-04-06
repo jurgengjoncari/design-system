@@ -1,0 +1,71 @@
+{
+  "color": {
+    "primary": "#005f73",
+    "secondary": "#0a9396",
+    "accent": "#94d2bd",
+    "neutral": "#e9d8a6",
+    "base": "#ee9b00",
+    "warning": "#ca6702",
+    "error": "#bb3e03",
+    "success": "#ae2012",
+    "info": "#9b2226"
+  },
+  "spacing": {
+    "none": "0",
+    "xxs": "4px",
+    "xs": "8px",
+    "sm": "12px",
+    "md": "16px",
+    "lg": "24px",
+    "xl": "32px",
+    "xxl": "48px"
+  },
+  "typography": {
+    "fontFamily": "\"Helvetica Neue\", Arial, sans-serif",
+    "fontSize": {
+      "xs": "12px",
+      "sm": "14px",
+      "md": "16px",
+      "lg": "18px",
+      "xl": "24px",
+      "xxl": "32px",
+      "display": "48px"
+    },
+    "fontWeight": {
+      "light": "300",
+      "normal": "400",
+      "medium": "500",
+      "bold": "700"
+    },
+    "lineHeight": {
+      "tight": "1.25",
+      "medium": "1.5",
+      "loose": "1.75"
+    }
+  },
+  "border": {
+    "radius": {
+      "none": "0",
+      "sm": "2px",
+      "md": "4px",
+      "lg": "8px",
+      "round": "50%"
+    },
+    "width": {
+      "none": "0",
+      "thin": "1px",
+      "thick": "2px",
+      "thicker": "4px"
+    },
+    "style": {
+      "solid": "solid",
+      "dotted": "dotted",
+      "dashed": "dashed"
+    }
+  },
+  "shadow": {
+    "sm": "0 1px 2px 0 rgba(0, 0, 0, 0.05)",
+    "md": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
+    "lg": "0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)"
+  }
+}
